@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endryll&layout=donut)](https://github.com/endryll/github-readme-stats)
 
 <!--
 **endryll/endryll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
