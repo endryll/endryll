@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endryll&layout=donut)](https://github.com/endryll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endryll&layout=donut&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/endryll/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 <!--
 **endryll/endryll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
